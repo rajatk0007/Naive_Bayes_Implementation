@@ -1,0 +1,11 @@
+ID,AGE,INCOME,STUDENT,Cscore,Buys
+1,youth,high,no,fair,no
+2,youth,high,no,excellent,no
+3,mid,high,no,fair,yes
+4,senior,mid,no,fair,yes
+5,senior,low,yes,fair,yes
+6,senior,low,yes,excellent,yes
+7,mid,low,yes,excellent,no
+8,youth,mid,no,fair,yes
+9,youth,low,yes,fair,no
+10,senior,mid,yes,fair,yes
